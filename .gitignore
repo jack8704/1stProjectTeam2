@@ -1,2 +1,4 @@
 00_data/
 etc/
+.ipynb_checkpoints/
+.env
